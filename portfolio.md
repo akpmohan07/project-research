@@ -3,6 +3,36 @@ https://app.clickup.com/t/86d0ch89c
 https://chatgpt.com/c/68cdb23d-5b84-832e-80a5-8430b55b3c02
 
 
+
+# Me
+I need to create an single landing page for my portfolio, where it have all details about me.
+
+**Target Audienace:**
+- Recruiters  - to explore my experience and projects beyond my LinkedIn
+
+- Fellow Coders - To share my profile with fellow persons to create an understanding about me.
+
+**Expectation:**
+- **Techincal**
+    - My work experience timeline
+    - My Pet Projects 
+    - My Tech Profile Links and Commit progress
+    - Github
+    - LeetCode
+    - LinkedIn
+    - Research Ideas
+    - Events Attended
+    - Blogs
+
+- **Personal Touch**
+    - Music History
+    - Movie History
+    - Fitness Progress
+
+---
+
+# AI
+
 # Portfolio Landing Page – Project Description
 
 ## 1️⃣ Project Vision
