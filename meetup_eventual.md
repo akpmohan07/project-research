@@ -1,3 +1,6 @@
+https://chatgpt.com/c/68c3d850-dffc-832f-a7d2-10d052207d8b
+
+https://app.clickup.com/t/86d09my9r
 
 ---
 
