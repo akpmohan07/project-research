@@ -1,3 +1,5 @@
+https://chatgpt.com/c/69309d89-68d4-8325-a39c-c4a9554b6d4e
+
 # Symbol-Based URL Sharing — Project Summary
 
 ## Why I'm Doing This
