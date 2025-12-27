@@ -1,3 +1,6 @@
+https://chatgpt.com/g/g-p-69305a5245d481919cbafe5f7ce69b59-project-ideas/c/694fe3b2-f92c-832a-9866-3d8f0ba53178
+https://chatgpt.com/g/g-p-69305a5245d481919cbafe5f7ce69b59/c/694fe80a-8bf8-8330-8719-1ac9ea17e485
+
 # Project Summary: Autonomous Moral Engine for Geopolitical Commentary
 
 ## Project Name (Working Title)
