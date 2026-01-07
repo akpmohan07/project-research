@@ -1,6 +1,33 @@
 https://chatgpt.com/g/g-p-69305a5245d481919cbafe5f7ce69b59-project-ideas/c/694fe3b2-f92c-832a-9866-3d8f0ba53178
 https://chatgpt.com/g/g-p-69305a5245d481919cbafe5f7ce69b59/c/694fe80a-8bf8-8330-8719-1ac9ea17e485
 
+```
+Core Idea:
+A lot of nations at war, conflicts, us giving sanctions, using its dollar power control others.
+
+
+Paralley AI is growing. I am thinking of using its power
+ 
+Always when is I see some news, it is biased on either side, based on their origin, like Western media. And others too..
+
+I want to have autonomous moral engine, which give its viewpoint each nations statement, actions, without any bias , based on humanity moral ethics.
+
+Data source : It can be from official statemnt. form foriegn affairs, top geo polictical news, All the history of data from past...
+
+It is something like take top news, give its point of view. It is like speaking to that country
+
+America, you are doing well, keep it up for good action
+America , you think you won , but don't forget the history of some refrence for bad action.
+
+The statemnt should make the viewers and the actioner think about it deeply and try to expose the bad intention behind its action . 
+
+It can sarcastic for small action. also depply attack the actioner if the action is very critical impact.
+
+It can be automated Twitter account, 
+
+Run in-depth product analysis on this idea, 
+```
+
 # Project Summary: Autonomous Moral Engine for Geopolitical Commentary
 
 ## Project Name (Working Title)
@@ -255,5 +282,6 @@ It does not claim to be right.
 It claims to be **consistent, transparent, and morally attentive**.
 
 And in global politics, that alone is disruptive.
+
 
 ---
